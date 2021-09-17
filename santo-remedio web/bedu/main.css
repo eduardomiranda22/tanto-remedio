@@ -1,0 +1,55 @@
+.menu{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+
+img{
+    width: 200PX; 
+    margin-top: 0px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+
+
+li{
+    display: inline-flex;
+    list-style: none;
+    padding: 0px;
+    list-style-type: none;
+    
+}
+
+.n12{
+    float: right;
+    margin-top: 75px;
+    margin-right: 250px;
+    overflow: 0px;
+    
+}
+
+.tex{
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(198, 94, 175);
+    font-size: 25px;
+    margin-left: 65px;
+    
+}
+
+
+li:hover a{
+    color: rgba(247, 220, 131, 0.877);
+   
+}
+
+/* cabeza de menu */
+.menu1{
+    background-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    
+   
+}
+
+

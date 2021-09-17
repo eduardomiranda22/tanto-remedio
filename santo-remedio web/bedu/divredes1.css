@@ -1,0 +1,76 @@
+.redes1{ 
+    height: 50px;
+    width: auto;
+    margin: auto;   
+}
+
+.tex1{
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #54bce9;
+    text-align: center;
+
+   
+    
+}
+
+
+.cabeza2{
+    background: #f0f3f1;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d30c0c, #dcc43c, #0f0e02,  #f5f4e4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e71b22, #f09d22, #0e93a2,  #f5f4e4
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    display: flex;  
+    }
+
+  .cabeza1{
+      font-size: 0px;
+      margin-left: 950px;
+      display: inline-flex;
+
+}  
+
+.tex3{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #3737d3;
+    font-size: 25px;
+
+    
+}
+
+.tex4{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #085a29;
+    font-size: 25px;
+}
+
+
+
+.icon-whatsapp2{
+    font-size: 35px;
+    margin-left: 65px;
+    color: rgb(6, 88, 39);
+}
+
+.icon-facebook1{
+    font-size: 35px;
+    margin-left: 75px;
+    color: rgb(16, 12, 74);
+
+}
+
+.connedor-link{
+position: relative;
+
+}
+
+
+.tex1:hover {
+    color: rgba(247, 220, 131, 0.877);
+
+}
+
+
